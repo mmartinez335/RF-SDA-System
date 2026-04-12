@@ -1,0 +1,3 @@
+11APR2026
+  The goal of this week is to build a foundation. Today, I created the Github repository, made the initial copy (and several renditions) of the README.md, and started my documentation in the form of this note. I also have begun to work through Chapter 8 of "Understanding Digital Signal Processing" by Richard Lyons to review the fundamental math behind Quadrature signals, and installed Jupyter Notebook on my main machine.
+    My amateur radio receiver station is complete as of yesterday, with my Raspberry Pi 5 running DragonOS (essentially Lubuntu + a plethora of SDR tools). It is connected to my RTL SDR v4 that is hooked up to my 23cm - 1m dipole antenna. None of this equipment is ruggedized yet, so it is all inside of my home office right next to the window.
