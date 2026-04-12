@@ -1,7 +1,7 @@
 # RF-SDA-System
 ## Building a Doppler-based Space Domain Awareness system using COTS technology and machine learning.
 
-This repository represents my first step towards a project I have been thinking about pursuing for a while: a localized Space Domain Awareness (SDA) system that tracks the velocity and direction of satellites overhead using the Doppler from their telemetry.
+This repository represents my first step towards a project I have been thinking about pursuing for a while: a localized Space Domain Awareness (SDA) system that tracks the velocity and direction of satellites overhead using the Doppler from their telemetry. I am neither an electrical engineer nor a programmer - simply an individual who operates a wide variety of RF equipment often, and has decided to seize on a burning curiosity to know more.
 
 I intend to use software defined radios (RTL SDR v4 & HackRF) along with antennas suited for amateur satellite telemetry reception. The first step is to develop the basic capability to detect and record amateur satellite telemetry. Following that, I will work probably the most difficult portion of this project: sensing and utilizing the Doppler effect to determine satellite direction and velocity. I will use updated two line element (TLE) codes as my reference data to validate my system. After developing a satisfactory Doppler-sensing capability, I intend to train an AI/ML model on this data to further automate the SDA system.
 
