@@ -32,6 +32,9 @@ begin relevant study, and confirm the hardware stack.
 - Continue Chapter 8; target completion by end of week
 - Research antenna type and placement options
 
+## 2026-04-14
+- Attempted to gain SSTV (UHF @ 437.550MHz) from ISS broadcast event to no avail.
+
 **AI DISCLAIMER:** I used Claude Sonnet 4.6 to assist me in determining the 
 best format for my weekly logs. It also edited some of the text for brevity 
 and added "Open Questions / Next Steps", and I agreed with those edits.
