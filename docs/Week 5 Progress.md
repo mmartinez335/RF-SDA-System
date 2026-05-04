@@ -3,7 +3,7 @@
 ## 2026-05-04
 
 ### Goals This Week
-Earn ham radio technician license, build first GNU Radio Companion flow, create fist project with Jupyter Notebook, complete first soldering project
+Earn ham radio technician license, build first GNU Radio Companion flow, create first project with Jupyter Notebook, complete first soldering project
 
 ### Progress
 
